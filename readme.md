@@ -2,7 +2,9 @@
 
 ## 1. Hướng dẫn cài đặt
 ### Tải mã nguồn về máy
-
+```python
+git clone https://github.com/NguyenDinhTiem/AIO-MENTAL-HEALTH.git
+```
 ### Tạo môi trường và kích hoạt môi trường
 ```python
 conda create -n aio_env python=3.11
@@ -29,3 +31,11 @@ streamlit run Home.py
 ![Quy trình xử lí dữ liệu, dữ liệu thô được xử lí bởi Ingest Pipeline(1), quy trình xử lí được lưu lại tại bộ nhớ cache(2), sau đó quá trình tạo index và lưu trữ tại kho index(3)](data/images/2.quy-trinh-xu-li-du-lieu.png)
 ![Agent quản lí lịch sử trò chuyện và sử dụng các công cụ truy vấn DMS5 và công cụ lưu trữ kết quả chẩn đoán.](data/images/2.tao-agent.png)
 ![Luồng hoạt động của ứng dụng](data/images/2.xay-dung-app.png)
+
+3. Demo
+Bạn có thể trải nghiệm ứng dụng tại đây: https://aio-mentalhealth.streamlit.app/
+
+![Demo1](data/images/demo1.png)
+![Demo1](data/images/demo2.png)
+![Demo1](data/images/demo3.png)
+![Demo1](data/images/demo4.png)
