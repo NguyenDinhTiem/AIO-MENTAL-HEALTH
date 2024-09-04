@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NguyenDinhTiem/AIO-MENTAL-HEALTH/blob/09100bbbff16a633912288ff3c4c031e9f7dac8b/data/images/logo.png" alt="">
+</p>
+
 # AIO MENTAL HEALTH - DỰ ÁN CHĂM SÓC SỨC KHỎE TINH THẦN CHO NGƯỜI VIỆT
 
 ## 1. Hướng dẫn cài đặt
