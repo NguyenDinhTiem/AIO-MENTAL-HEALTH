@@ -1,0 +1,10 @@
+llama_index==0.11.4
+PyYAML
+plotly==5.24.0
+streamlit==1.38.0
+docx2txt==0.8
+chromadb==0.5.5
+llama-index-vector-stores-chroma==0.2.0
+llama-index-extractors-entity==0.2.0
+llama-index-readers-web==0.2.2
+transformers==4.40.2
